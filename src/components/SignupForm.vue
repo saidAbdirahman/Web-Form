@@ -45,8 +45,8 @@
         terms: false,
         tempSkill: '',
         skills: [],
-        passwordStrength: '',
-        strengthClass: '',
+            passwordStrength: '',
+            strengthClass: '',
       };
     },
     methods: {
